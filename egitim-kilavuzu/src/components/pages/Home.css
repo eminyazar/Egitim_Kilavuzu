@@ -1,0 +1,50 @@
+/* .home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 60px;
+  }
+  
+  .header {
+    text-align: center;
+  }
+  
+  .table-section {
+    align-self: flex-start;
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .card-section {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  } */
+
+  .home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 60px;
+  }
+  
+  .header {
+    text-align: center;
+  }
+  
+  .table-section {
+    width: 100%;
+    display: flex;
+    justify-content: center; /* Tablonun ortalanmasını sağlar */
+    margin-top: 20px;
+  }
+  
+  .card-section {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
